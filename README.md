@@ -1,4 +1,4 @@
-# <img src="./src/main/resources/images/ART Music logo.png" width="25" align="center" style="margin: 0 0px 10px 0;"> Art Music
+# <img src="./src/main/resources/images/ART Music logo.png" width="25"> Art Music
 
 **Art Music** é uma aplicação desktop desenvolvida em Java para a gestão e compra de bilhetes de concertos e eventos musicais. O projeto utiliza uma interface gráfica construída com Java Swing e conecta-se a uma base de dados MySQL para persistência de dados.
 
